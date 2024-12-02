@@ -75,3 +75,8 @@ Korean.type(
     "더 나은 세상", // 메시지
     50 // 50ms (0.05초씩 딜레이를 주며 타이핑 애니메이션 적용)
 ```
+
+(타이핑 애니메이션 사용 예시)
+https://github.com/user-attachments/assets/2bc747fd-e462-4678-bb1e-c607aab03a53
+
+
